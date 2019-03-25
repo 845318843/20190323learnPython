@@ -1,0 +1,2 @@
+下载 python3.7 ， 下载gedit ， 下载 pycharm
+按网上的教程安装
